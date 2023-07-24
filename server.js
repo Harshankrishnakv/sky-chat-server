@@ -41,7 +41,7 @@ const server = app.listen(
 const io = require("socket.io")(server, {
   pingTimeout: 60000,
   cors: {
-    origin: "https://sky-chat-app.netlify.app",
+    origin: "https://jade-jolly-piglet.cyclic.app",
     // credentials: true,
   },
 });
