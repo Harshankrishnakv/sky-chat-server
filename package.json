@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "server": "node server.js",
-    "build": "npm install --legacy-peer-deps 
+    "build": "npm install --legacy-peer-deps"
   },
   "keywords": [
     "mern",
